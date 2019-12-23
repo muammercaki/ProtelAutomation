@@ -189,7 +189,6 @@
     "value": "input[id='cgv']",
     "type": "css"
   },
-
   {
     "key": "PaybyBankWire",
     "value": "a[class='bankwire']",
@@ -225,7 +224,5 @@
     "value": " #center_column > div > p > strong",
     "type": "css"
   }
-
-
 ]
 

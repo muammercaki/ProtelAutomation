@@ -6,7 +6,6 @@
     font-weight: 300;
     font-style: normal;
 }
-
 /* END Light */
 /* BEGIN Regular */
 @font-face {
@@ -16,7 +15,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 /* END Regular */
 /* BEGIN Italic */
 @font-face {
@@ -26,7 +24,6 @@
     font-weight: normal;
     font-style: italic;
 }
-
 /* END Italic */
 /* BEGIN Bold */
 @font-face {
@@ -36,7 +33,6 @@
     font-weight: bold;
     font-style: normal;
 }
-
 /* END Bold */
 /* BEGIN Bold Italic */
 @font-face {
@@ -46,5 +42,4 @@
     font-weight: bold;
     font-style: italic;
 }
-
 /* END Bold Italic */

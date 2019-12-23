@@ -154,12 +154,11 @@ public class StepImplementation extends BaseTest {
     public void keyliElemanOlusmamisMi(String key) {
 
         List<WebElement> elements = findElements(key);
-        if (elements.size() > 0) {
-            Assert.fail("Authentication failed.");
-        } else {
-            logger.info("Authentication failed.");
 
-        }
+        Assert.assertTrue("Authentication failed.", elements.size() > 0);
+
+        logger.info("Authentication Pass.");
+
 
     }
 

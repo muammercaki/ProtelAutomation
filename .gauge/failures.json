@@ -5,7 +5,5 @@
     "--hide-suggestion",
     "--simple-console"
   ],
-  "FailedItems": [
-    "specs\\Login.spec:13"
-  ]
+  "FailedItems": []
 }

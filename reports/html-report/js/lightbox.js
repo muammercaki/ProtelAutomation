@@ -29,6 +29,7 @@
 */
 
 
+
 //
 // Configuration
 //
@@ -61,6 +62,7 @@ function getPageScroll() {
     arrayPageScroll = new Array('', yScroll)
     return arrayPageScroll;
 }
+
 
 
 //
@@ -249,6 +251,9 @@ function showLightbox(objLink) {
 }
 
 
+
+
+
 //
 // hideLightbox()
 //
@@ -270,6 +275,8 @@ function hideLightbox() {
     // disable keypress listener
     document.onkeypress = '';
 }
+
+
 
 
 //
@@ -423,6 +430,8 @@ function initLightbox() {
 
 
 }
+
+
 
 
 //

@@ -113,7 +113,6 @@ header.top .project {
 .report-overview > div {
     flex: 1;
 }
-
 .report-overview .report_test-results {
     flex: 1.5;
 }
@@ -326,12 +325,10 @@ header.top .project {
     right: 30px;
     top: 20px;
 }
-
 .spec-screenshot-container {
     max-width: 16.66%;
     max-height: 16.66%;
 }
-
 .spec-list {
     list-style-type: none;
     margin: 0;
@@ -690,7 +687,6 @@ header.top .project {
 .step li:last-child {
     margin-bottom: 0;
 }
-
 .step li:first-child {
     margin-top: 10px;
 }
@@ -1091,7 +1087,6 @@ footer p {
         margin-top: 10px;
         margin-left: 10px;
     }
-
     .scenario-container .screenshot {
         margin: 15px;
         width: 15%;
@@ -1100,7 +1095,6 @@ footer p {
     .scenario-container .screenshot img {
         max-width: 100%;
     }
-
     .exception-container .screenshot {
         width: auto;
     }
@@ -1180,7 +1174,6 @@ footer p {
     text-decoration: none;
     cursor: pointer;
 }
-
 .modal-content {
     background-color: #fefefe;
     padding: 0 30px 20px 30px;
@@ -1314,7 +1307,6 @@ svg#pie-chart {
 .hidden, #congratulationsHidden {
     display: none;
 }
-
 .spec-head-wrapper {
     overflow: hidden;
 }
@@ -1405,7 +1397,6 @@ svg#pie-chart {
 .report_test-results .report_test-result:nth-child(2) {
     flex: 1.5;
 }
-
 .report_test-result .total-specs, .report_test-result .total-scenarios {
     flex: 2;
     display: flex;
